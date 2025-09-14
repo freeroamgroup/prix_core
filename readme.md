@@ -17,9 +17,9 @@ Full documentation is available on GitBook:
    ```cfg
    ensure prix_core
 
-
 ---
 
 ## 📌 License
 This project is released under the MIT License.
+
 Feel free to use and modify it in your own FiveM projects.
